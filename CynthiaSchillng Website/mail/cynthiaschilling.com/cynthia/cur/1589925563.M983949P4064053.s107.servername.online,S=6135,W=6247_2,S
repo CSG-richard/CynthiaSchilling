@@ -1,0 +1,112 @@
+Return-Path: <don@tarallodesign.com>
+Delivered-To: cynthia@cynthiaschilling.com
+Received: from s107.servername.online
+	by s107.servername.online with LMTP
+	id IAPpObtWxF41Az4ArnlWCg
+	(envelope-from <don@tarallodesign.com>)
+	for <cynthia@cynthiaschilling.com>; Tue, 19 May 2020 14:59:23 -0700
+Return-path: <don@tarallodesign.com>
+Envelope-to: cynthia@cynthiaschilling.com
+Delivery-date: Tue, 19 May 2020 14:59:23 -0700
+Received: from out2-40.antispamcloud.com ([185.201.17.40]:49600)
+	by s107.servername.online with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <don@tarallodesign.com>)
+	id 1jbAGf-00H52e-Kg
+	for cynthia@cynthiaschilling.com; Tue, 19 May 2020 14:59:23 -0700
+Received: from s105.servername.online ([204.44.192.17])
+	by mx171.antispamcloud.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <don@tarallodesign.com>)
+	id 1jbAFu-000GR1-DQ
+	for cynthia@cynthiaschilling.com; Tue, 19 May 2020 23:58:37 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=tarallodesign.com; s=default; h=Message-ID:Subject:To:From:Date:
+	Content-Transfer-Encoding:Content-Type:MIME-Version:Sender:Reply-To:Cc:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=5Yr+AOKSPMdpQym3T6mrbRnTZhwOo3okjUEvJ9cZCjM=; b=AMXkbkao2CD0ASvO09nPsIv8t
+	q9mJlOa7qyLvxCke4bxYa32jf/CXXqUM9pHEh7B/48R6/Bk1aB+6YelMoXvi9iGop8bsyoNqBo6UC
+	sDUMgTjRwkIqjuVBRUcSZ05A1iyOK/9CRw2uBevhEv5JHdjRVfdJ59cDZDtB9iVCX5SHeIH10r7Y9
+	zo8PXjG4VWVEruWdMQCs5EAWam/BwOxr9iiM2tFXcqoI8e1BOnJ7BTTV8MmjaMnuq/WnK32LGEqg2
+	dN7+9t91BUaNYrtyuxby1m6001ymU1sUYI5y0sfj6iEeyxTVi6PwH972O/rwMEi40xuudZivaW7FY
+	J7nYB3EOA==;
+Received: from localhost ([127.0.0.1]:56106 helo=s105.servername.online)
+	by s105.servername.online with esmtpa (Exim 4.93)
+	(envelope-from <don@tarallodesign.com>)
+	id 1jbAFr-006PNH-V4
+	for cynthia@cynthiaschilling.com; Tue, 19 May 2020 14:58:33 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Tue, 19 May 2020 14:58:31 -0700
+From: don@tarallodesign.com
+To: Cynthia Schilling <cynthia@cynthiaschilling.com>
+Subject: invite
+Message-ID: <fc9139b29113df4f74df179f54279f27@tarallodesign.com>
+X-Sender: don@tarallodesign.com
+User-Agent: Roundcube Webmail/1.3.8
+X-OutGoing-Spam-Status: No, score=1.0
+X-Get-Message-Sender-Via: s105.servername.online: authenticated_id: don@tarallodesign.com
+X-Authenticated-Sender: s105.servername.online: don@tarallodesign.com
+X-AuthUser: don@tarallodesign.com
+X-Originating-IP: 204.44.192.17
+X-Spampanel-Domain: outgoing-shared.hostpapa.com
+X-Spampanel-Username: outgoingshared
+Authentication-Results: antispamcloud.com; auth=pass (login) smtp.auth=outgoingshared@outgoing-shared.hostpapa.com
+X-Spampanel-Outgoing-Class: unsure
+X-Spampanel-Outgoing-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0etK79GjTETSC9a1ypZ8nc2pSDasLI4SayDByyq9LIhVUZbR67CQ7/vm
+ /hHDJU4RXkTNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDT/wo2SRtkU3DiiFSXSUqy+Kg
+ Jxg6EyWFJPU9vm96iJ/nx8yeplRO3sLIqUlSH7OG/NHb2sc3NwFxlRJn5IUPKIMlhcTgOXSCz8qb
+ ysTVYVlQIGk1Fz8YEmkJneSbdnKR9HvvKlLt2UZfiuo3MoudvSXAqEAQZXCFCwvZK9SRAKWOZGBi
+ WuVIRvJ1bIgdfAu1zEpNqCZDfEzJVnTtQRFbPHoFNewXFxLOGkUcq5UN3xK7LyU0NLRBZaQAOGXu
+ CUJH09uuFKZbba1bXIHGBFPxuQzcLiPibp7eiMkmZ+TDXbkvTRxdebmKLQZvPPRB7w6pA1aO0ASg
+ ODHLSquIn2D3FxUS9itywBHw11Tnbe8A27rGJ7hFVksSjB21NM5DTNxBcXqUwaiTYU5RrSlJK7QV
+ oO09NmV3aEMTLP/4jhOBZYYgr/U0flMcy2Vi/IcBgY4aCN1vmHLh3z+T5GW+QPsBOahnaR+eDmt1
+ fCO+lThL5cCwmp6WbGq2WiyEaRKgPJmRwYZEHe4c7sx2T72FisacSQj2FulrsjdPOfajq5FD8c77
+ uT6zM1Z1WjKGDJ1Ot6r7zqwWvy2RzzRdfYTZ/e+NNx1aNlHvIii7UiT89FsNbs4Qq76vNFyA+95Z
+ JjK+335kZ4hOMpjfRXcP6Yz7/5fKWyMSAjc8uW5yKXnSLcSsbJKXxKD0hvHD9xRSWiwErn6PdbvX
+ DgLT4Xa2FoKvceRnclYEAnvv4RljNar6ucheYfAQjzHrXspwoF7x1TJ1ntjKIMoStSKRNK3KJZ+A
+ 3L1eeX6m+UeFXprlCOm3BAEbJtB2GTSuJovhcasJEMkLXb6y0zXP1KM2USLbAuI3HDku8iZpD/LN
+ RwnyyjltRdqITyfwBTL1+6vDOMemz/4I88NDoIIUGMGVSwpSKa6DYtVjNCwFelcnXFN+3Le02G+y
+ X5JhusGv7VeQFXuXrZHevExrHiDtPmQpN5AVNS7wNvDAVw==
+X-Report-Abuse-To: spam@quarantine10.antispamcloud.com
+X-Spam-Status: No, score=1.8
+X-Spam-Score: 18
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "s107.servername.online",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  https://us04web.zoom.us/j/74755803062?pwd=cDJCRlZxdTdqYXFjMXVuM0Jackpzdz09
+    
+ Content analysis details:   (1.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: zoom.us]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [185.201.17.40 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.0 TVD_SPACE_RATIO        No description available.
+X-Spam-Flag: NO
+
+https://us04web.zoom.us/j/74755803062?pwd=cDJCRlZxdTdqYXFjMXVuM0Jackpzdz09

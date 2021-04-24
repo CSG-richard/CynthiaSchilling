@@ -1,0 +1,64 @@
+Received: from exim by lpmail09.lunariffic.com with spam-scanned (Exim 4.90_1)
+	(envelope-from <ben@benkbdesign.com>)
+	id 1h8EVc-0000si-Kd
+	for cynthia@cynthiaschilling.com; Sun, 24 Mar 2019 18:34:41 -0700
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	lpmail09.lunariffic.com
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	HTML_MESSAGE autolearn=disabled version=3.4.0
+Received: from mail-vs1-f44.google.com ([209.85.217.44]:36330)
+	by lpmail09.lunariffic.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <ben@benkbdesign.com>)
+	id 1h8EVc-0000sJ-D6
+	for cynthia@cynthiaschilling.com; Sun, 24 Mar 2019 18:34:40 -0700
+Received: by mail-vs1-f44.google.com with SMTP id n4so4459680vsm.3
+        for <cynthia@cynthiaschilling.com>; Sun, 24 Mar 2019 18:34:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=benkbdesign-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Xm4Rv6BnUQzYGA40ktvTANacf+2Zl+C/6rjSojopbbI=;
+        b=iPWLmelgfVBaz0TAMmF+7RcIrV8S8cIY+4Hr+6rjYl49Jat3eQsKqS+VnjG+Joko0Q
+         mxxxaSzE8Y8T5mF2Rvnqh9fqmUC2MNoJt8wih1C0k4ixxVuQpgFIhZGoP4z0MhvwDfW5
+         wpmfyg1wNbIaM7UN8XB6/OxiqE4JHoIpOEPeMF45usMH7lrbVB3OR4D8tJhgNRlxzuG3
+         CxeCvKKE+hIjOIyK0mtFkpcx3aUcAFlAZTOfUc0xxsN9emA8rHbUIoPtjTjZXi4fcoKN
+         5017d2g4M1fVjju7gmyMCHmdVBWPOVBDPgvIzXBkcdNAuBpY7eOCIIMDHHVKUZ5AXSJF
+         fiCw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Xm4Rv6BnUQzYGA40ktvTANacf+2Zl+C/6rjSojopbbI=;
+        b=ins2QFhFJmM6lshg9Of59k3QuRxFTAq6LWE5MGMI+hB2rdc9dEJDWWMrX66Ym25jVM
+         vnM0cxWDwvSeBF/IL0VGWx6fbC64tArBW4b4//JcG6cHSyVGGiYm5sASNg7VMUwxi7YD
+         jRGASCGMAW28FNgPQ7WHF/e3+g2eaEWfYyhlNwYuRSApq8AHpatkmVx8CxLUXFnDUk7W
+         jCMaR7gYUkOZolIJd4aoAD83432LQY6SY/2I2rxKRh7yrA40nOG/TBAL8qpnZXOZeHyK
+         jERi78LILEVLdvU2S1qEdgyLiMFLDPv0TbNbswfuAfST+ktVr9vTDCTM8sUEbjhe19gY
+         vNJg==
+X-Gm-Message-State: APjAAAUfJZBP7KtHW5iYus+ApkbhdmW/SFmlv7bQUJn6/pw8Z2p95RWt
+	fYedF5SzCpCng2oc+kCdnjz7xMzxwL0MhFZ3rN5svi6F
+X-Google-Smtp-Source: APXvYqypk6IDXTv83s79gpoI1aGCLeUcgiJR5micVfYqnxKwMYdg38UeDSGy/OHYu+tZwDjd179S8hkLF2virrGaVWE=
+X-Received: by 2002:a67:83c5:: with SMTP id f188mr13308214vsd.163.1553477678395;
+ Sun, 24 Mar 2019 18:34:38 -0700 (PDT)
+MIME-Version: 1.0
+From: Benjamin Borodawka <ben@benkbdesign.com>
+Date: Sun, 24 Mar 2019 21:34:27 -0400
+Message-ID: <CACsp8J+OQwLg1USYXDOJqDGH0HsT7E3t2P8g96n8dy7pEhe1rg@mail.gmail.com>
+Subject: Italy 2019
+To: cynthia@cynthiaschilling.com
+Content-Type: multipart/alternative; boundary="0000000000003004b00584e13545"
+
+--0000000000003004b00584e13545
+Content-Type: text/plain; charset="UTF-8"
+
+Hey Cynthia! It's Ben Borodawka. How's your semester going? Also, just
+wondering, are you going to Italy this summer for Don's class?
+
+Talk to you soon!
+
+--0000000000003004b00584e13545
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hey Cynthia! It&#39;s Ben Borodawka. How&#39;s your semester going? Also, just wondering, are you going to Italy this summer for Don&#39;s class?<div><br></div><div>Talk to you soon!</div></div>
+
+--0000000000003004b00584e13545--

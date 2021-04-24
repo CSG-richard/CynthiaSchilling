@@ -1,0 +1,445 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/cynth29/tmp/awstats/ssl/awstats.cynthiaschilling.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2695                
+POS_VISITOR 7806                
+POS_DAY 10414               
+POS_DOMAIN 3382                
+POS_LOGIN 3824                
+POS_ROBOT 3979                
+POS_WORMS 4328                
+POS_EMAILSENDER 4459                
+POS_EMAILRECEIVER 4602                
+POS_SESSION 11059               
+POS_SIDER 11216               
+POS_FILETYPES 4737                
+POS_DOWNLOADS 4857                
+POS_OS 4905                
+POS_BROWSER 5135                
+POS_SCREENSIZE 5734                
+POS_UNKNOWNREFERER 5808                
+POS_UNKNOWNREFERERBROWSER 6435                
+POS_ORIGIN 6629                
+POS_SEREFERRALS 6764                
+POS_PAGEREFS 6949                
+POS_SEARCHWORDS 7097                
+POS_KEYWORDS 7249                
+POS_MISC 2359                
+POS_ERRORS 7308                
+POS_CLUSTER 3680                
+POS_SIDER_404 7409                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301001033 7 1038 10890848971991
+FirstTime 20200201110530
+LastTime 20200229080248
+LastUpdate 20200301040944 7 0 6 0 0
+TotalVisits 51                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 73                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 2744 5 10 204320
+1 0 1 132753 5 9 46973
+2 6 6 16986 8 10 75033
+3 2 3 132753 1 1 7101
+4 2 2 2744 4 6 23517
+5 3 5 159469 2 4 28236
+6 3 3 3284 6 12 71425
+7 0 0 0 14 16 63149
+8 94 94 115503 6 8 155362
+9 4 6 233608 8 10 21583
+10 1 2 111727 1 2 9637
+11 2 2 8963 5 8 69454
+12 3 3 5586 4 7 29802
+13 2 3 9468 6 8 98242
+14 2 3 112609 7 9 62226
+15 0 2 67348 4 6 23911
+16 1 2 134175 6 9 30123
+17 1 3 183062 3 4 19031
+18 2 4 267550 6 9 237256
+19 4 6 273217 6 8 27910
+20 1 1 1862 8 12 211446
+21 2 3 113589 12 14 93966
+22 3 5 290873 5 5 89740
+23 1 4 300429 11 17 81197
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 104 114 973898
+cn 27 29 205396
+de 4 4 5586
+at 2 2 0
+cl 2 2 23505
+ca 1 1 7101
+ru 1 1 1862
+sg 0 1 90600
+ph 0 1 109865
+in 0 1 132753
+ua 0 1 132753
+kr 0 3 398259
+my 0 1 132753
+id 0 1 132753
+au 0 1 90600
+hk 0 1 132753
+ir 0 1 109865
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+link 43 650504 20200228171735 0
+AhrefsBot/ 30 40798 20200229213503 0
+bot[\s_+:,\.\;\/\\-] 29 532964 20200228001238 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 5586 20200214194612 0
+[\s_+:,\.\;\/\\-]bot 3 5586 20200216213241 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+jpg 20 2240143 0 0
+png 4 213852 0 0
+html 141 226307 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+ios_iphone 2 1
+win7 2 2
+linux 1 0
+macosx11 90 89
+win8.1 1 0
+linuxandroid 20 17
+win10 9 1
+macosx5 1 1
+macosx 8 0
+ios_ipad 15 15
+winxp 1 1
+macosx12 1 0
+Unknown 14 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+firefox52.0 87 87
+chrome74.0.3729.136 1 0
+safari12.1.2 1 0
+chrome79.0.3945.130 8 0
+Unknown 10 10
+safari7.0 15 15
+chrome80.0.3987.106 1 0
+firefox15.0.1 1 1
+chrome41.0.2228.0 1 1
+firefox13.0.1 1 1
+safari10.0 1 1
+chrome40.0.2214.93 1 1
+chrome80.0.3987.116 2 0
+firefox47.0 1 1
+chrome53.0.2785.116 1 1
+chrome40.0.2214.85 1 1
+chrome53.0.2785.49 3 3
+safari13.0.5 1 0
+mozilla 4 4
+chrome80.0.3987.122 1 0
+safari12.1 1 0
+chrome80.0.3987.100 2 0
+chrome80.0.3987.87 1 0
+chrome79.0.3945.136 1 0
+safari12.0.3 1 0
+chrome76.0.3809.146 1 0
+chrome40.0.2214.89 16 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20200203064359
+Python/3.8_aiohttp/3.6.2 20200212081912
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200203022333
+python-requests/2.22.0 20200202135058
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200202211638
+Go-http-client/1.1 20200219200337
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200203045352
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python/3.8_aiohttp/3.6.2 20200212081912
+Go-http-client/1.1 20200219200337
+python-requests/2.22.0 20200202135058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 141 143
+From1 0 0
+From2 0 22
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_kr 0 2
+www_google_com 0 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 80 544185
+401 15 678
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/wp/license.txt 1 -
+/.well-known/assetlinks.json 24 -
+/license.txt 1 -
+/robots.txt 54 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 73
+104.199.27.129 90 90 102578 20200212081912
+195.206.105.217 2 2 0 20200202135058
+137.226.113.28 2 2 3724 20200203045352
+114.119.164.3 1 1 1862 20200213005902
+137.226.113.27 1 1 1862 20200203064359
+114.119.167.94 1 1 1163 20200214185724
+54.71.18.36 1 1 1862 20200211193101
+114.119.146.3 1 1 889 20200224055531
+104.248.15.131 1 1 11739 20200201230340
+114.119.148.223 1 1 1862 20200215020347
+114.119.164.108 1 1 1862 20200218224141
+114.239.147.95 1 1 882 20200229041001
+119.250.56.28 1 1 2012 20200229080248
+114.119.131.240 1 1 2877 20200224050914
+60.191.38.77 1 1 7101 20200201110530
+114.119.154.11 1 1 1862 20200206103356
+159.138.156.3 1 1 1862 20200214092929
+114.119.153.176 1 1 1163 20200226095226
+138.197.128.76 1 1 0 20200210031817
+138.197.152.122 1 1 0 20200210031814
+114.119.141.65 1 1 882 20200216142422
+159.138.158.99 1 1 1862 20200222210729
+18.236.135.79 1 1 1862 20200201194953
+114.119.132.21 1 1 881 20200221190625
+114.119.145.216 1 1 1862 20200220081515
+112.207.101.71 0 1 109865 
+102.184.50.251 0 1 132753 
+203.135.190.53 0 1 132753 
+114.119.153.24 0 1 133997 
+211.214.155.254 0 1 132753 
+58.185.68.18 0 1 90600 
+38.82.195.98 0 1 109865 
+24.5.239.90 0 1 109865 
+49.15.213.18 0 1 132753 
+71.73.88.145 0 1 132753 
+216.228.243.4 0 1 132753 
+125.138.112.170 0 1 132753 
+37.54.90.97 0 1 132753 
+162.213.133.195 0 1 117967 
+24.61.246.9 0 1 9468 
+73.133.206.63 0 2 67348 
+114.119.139.183 1 1 1862 20200226121312
+138.44.128.242 0 1 90600 
+159.138.149.132 1 1 1862 20200215025352
+114.119.145.53 1 1 1422 20200213160519
+138.246.253.5 1 1 0 20200223061005
+114.119.155.230 1 1 1862 20200213054526
+191.96.191.57 1 1 11751 20200201225539
+114.119.149.253 1 1 1862 20200213093516
+95.162.245.77 0 1 109865 
+175.209.48.195 0 1 132753 
+114.119.134.179 1 1 1950 20200228082831
+114.119.166.81 1 1 1862 20200209141924
+114.119.132.44 1 1 2877 20200217025312
+114.119.159.202 1 1 1422 20200220020348
+159.138.157.5 1 1 1862 20200224124818
+159.138.152.132 1 1 1862 20200222021738
+159.138.148.30 1 1 1862 20200207110902
+82.202.161.133 1 1 1862 20200214195248
+130.68.183.13 0 1 61566 
+114.119.167.224 1 1 881 20200214184705
+114.119.136.230 1 1 882 20200229002836
+198.27.85.233 1 1 7101 20200203082624
+69.250.164.153 0 1 92275 
+114.119.145.89 1 1 1422 20200214064632
+114.119.152.241 0 1 23184 
+114.119.138.94 1 1 1862 20200225120333
+179.61.171.134 1 1 11754 20200201225308
+59.153.246.139 0 1 132753 
+54.186.119.153 1 1 1862 20200219200337
+34.221.104.141 1 1 1862 20200203171156
+64.225.6.163 1 1 7101 20200203022333
+114.119.158.227 1 1 889 20200217090954
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20200201 5 5 44207 5
+20200202 3 4 134615 2
+20200203 5 5 19788 5
+20200204 0 1 9468 0
+20200205 0 1 132753 0
+20200206 1 2 94137 1
+20200207 1 1 1862 1
+20200209 1 1 1862 1
+20200210 2 3 132753 2
+20200211 1 2 119829 1
+20200212 90 91 212443 1
+20200213 4 6 249626 4
+20200214 5 5 7190 5
+20200215 2 2 3724 2
+20200216 1 2 133635 1
+20200217 2 6 360168 2
+20200218 1 1 1862 1
+20200219 1 2 92462 1
+20200220 2 3 136037 2
+20200221 1 1 881 1
+20200222 2 3 136477 2
+20200223 1 1 0 1
+20200224 3 5 249490 3
+20200225 1 4 130776 1
+20200226 2 2 3025 2
+20200227 0 2 265506 0
+20200228 1 1 1950 1
+20200229 3 3 3776 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 50
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/ 45 120093 37 37
+/drawings.html 5 7110 3 3
+/contact.html 5 4410 3 3
+/about.html 4 4652 2 2
+/puppy.html 4 3556 2 2
+/window.html 4 3524 2 2
+/resume.html 4 11508 2 2
+/greater-fitchburg.html 2 2420 0 0
+/miting-minds.html 2 1930 0 0
+/dragonflies.html 2 1750 0 0
+/futura.html 2 2138 0 0
+/connected.html 2 2840 0 0
+/sunset.html 2 1850 0 0
+/stata.html 2 1850 0 0
+/coffeemaker-app.html 2 2064 0 0
+/winter-concert.html 2 1874 0 0
+/clear.html 2 2136 0 0
+/apples.html 2 1852 0 0
+/glasses.html 2 1854 0 0
+/schumann.html 2 1818 0 0
+/albers-invitation.html 2 1892 0 0
+/orchestra-poster.html 2 1846 0 0
+/score.html 2 2234 0 0
+/tea-flavors.html 2 2032 0 0
+/debussy.html 2 1752 0 0
+/banana-bread.html 2 2244 0 0
+/pieces.html 2 2196 0 0
+/daisy.html 2 1832 0 0
+/rockyfourmonths.html 2 1998 0 0
+/scriabin.html 2 1814 0 0
+/rashomon.html 2 2322 0 0
+/bananas.html 2 1808 0 0
+/scriabin-poster.html 2 1974 0 0
+/avocados.html 2 1772 0 0
+/beethoven.html 2 1826 0 0
+/greatfalls.html 2 2102 0 0
+/wachusett-art.html 2 2448 0 0
+/memory.html 2 2030 0 0
+/scriabin-paper.html 2 1920 0 0
+/cleveland-orchestra.html 2 2392 0 0
+/philip-glass.html 2 1958 0 0
+/energy.html 2 2686 0 0
+END_SIDER

@@ -1,0 +1,426 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/cynth29/tmp/awstats/awstats.rdonbosco.cynthiaschilling.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2700                
+POS_VISITOR 8414                
+POS_DAY 10336               
+POS_DOMAIN 3303                
+POS_LOGIN 3646                
+POS_ROBOT 3801                
+POS_WORMS 4110                
+POS_EMAILSENDER 4241                
+POS_EMAILRECEIVER 4384                
+POS_SESSION 10638               
+POS_SIDER 10797               
+POS_FILETYPES 4519                
+POS_DOWNLOADS 4635                
+POS_OS 4683                
+POS_BROWSER 4937                
+POS_SCREENSIZE 5768                
+POS_UNKNOWNREFERER 5842                
+POS_UNKNOWNREFERERBROWSER 6155                
+POS_ORIGIN 6309                
+POS_SEREFERRALS 6443                
+POS_PAGEREFS 6596                
+POS_SEARCHWORDS 6770                
+POS_KEYWORDS 6931                
+POS_MISC 2364                
+POS_ERRORS 6999                
+POS_CLUSTER 3502                
+POS_SIDER_404 7089                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801031600 4 392 10485864423222
+FirstTime 20200717185023
+LastTime 20200730172539
+LastUpdate 20200801051411 4 0 3 0 0
+TotalVisits 70                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 50                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 4 704 0 1 0
+1 2 2 496 0 2 20233
+2 0 0 0 0 0 0
+3 1 1 478 4 6 16849
+4 1 1 248 0 0 0
+5 2 2 956 0 1 10170
+6 3 3 248 2 4 5312
+7 2 2 478 0 1 0
+8 2 3 600 2 2 10344
+9 4 4 3247 18 19 192443
+10 0 0 0 2 3 5545
+11 5 5 2357 0 0 0
+12 1 1 478 4 5 5807
+13 0 0 0 0 0 0
+14 5 6 2264 15 21 166526
+15 1 1 248 0 3 4815
+16 2 2 496 0 0 0
+17 6 7 2512 0 3 20238
+18 10 10 824 0 0 0
+19 1 1 478 0 1 10101
+20 2 2 956 1 3 10514
+21 15 15 7961 3 18 122906
+22 47 47 4756 0 1 10121
+23 5 5 2590 22 28 213060
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 76 79 12623
+cn 20 21 8054
+in 7 8 4110
+fr 4 4 478
+ru 3 3 1846
+gr 3 3 2769
+de 2 2 923
+gb 1 1 248
+es 1 1 478
+ca 1 1 923
+nl 1 1 923
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 16 3852 20200731125308 0
+baidu 5 2390 20200722031048 0
+DomainSONOCrawler/ 1 248 20200728082101 0
+no_user_agent 1 342 20200731202425 0
+bingbot/ 1 478 20200719105545 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 65 28479 0 0
+css 5 520 0 0
+Unknown 54 4376 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+ios_ipad 1 1
+Unknown 56 56
+win10 34 32
+win8.1 2 2
+win8 1 1
+win2003 1 1
+winnt 2 2
+macosx 2 1
+ios_iphone 6 5
+win16 1 1
+linux 5 4
+win7 3 3
+winxp 2 2
+linuxandroid 4 4
+win2000 1 1
+winvista 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 36
+chrome77.0.2346.88 1 1
+chrome77.0.1748.88 1 1
+chrome76.0.3136.88 1 1
+chrome71.0.1226.88 1 1
+chrome58.0.3029.81 1 1
+chrome72.0.3914.88 1 1
+chrome74.0.3729.131 2 2
+firefox73.0 1 1
+chrome41.0.2226.0 1 1
+chrome83.0.4103.97 1 1
+Unknown 15 15
+msie8.0 1 1
+chrome77.0.1629.88 1 1
+firefox55.0 1 1
+chrome81.0.4044.122 1 1
+chrome78.0.1415.88 1 1
+chrome78.0.3904.108 3 3
+chrome56.0.2924.76 1 1
+chrome80.0.3987.119 1 1
+chrome36.0.1985.67 1 1
+chrome70.0.3588.88 1 1
+chrome63.0.3239.132 2 2
+chrome72.0.3626.119 9 8
+mozilla 41 41
+chrome83.0.4103.116 8 7
+chrome76.0.1716.88 1 1
+chrome67.0.3396.79 2 2
+chrome80.0.3987.122 1 1
+opera68.0.3618.173 4 4
+chrome84.0.4147.89 5 3
+chrome75.0.3770.142 2 2
+safari13.0.3 6 5
+chrome78.0.3904.70 1 1
+chrome43.0.2376.69 2 2
+firefox63.0 1 1
+chrome76.0.3809.71 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_ips-agent) 20200720192216
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200718222218
+Go-http-client/1.1 20200726235902
+Cpanel-HTTP-Client/1.0 20200718220502
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200726235902
+Cpanel-HTTP-Client/1.0 20200718220502
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 116
+From1 0 0
+From2 1 1
+From3 2 2
+From4 0 5
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://papiaahmed.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 85 817674
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 38
+/2017/wp-includes/wlwmanifest.xml 1 -
+/2018/wp-includes/wlwmanifest.xml 2 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/demo/ 1 -
+/media/wp-includes/wlwmanifest.xml 2 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/blog/ 1 -
+/old/ 1 -
+/wp-login.php 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/cms/ 1 -
+/backup/ 1 -
+/tmp/ 1 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/wp/ 1 -
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/home/ 1 -
+/wordpress/ 1 -
+/w3images/forestbridge.jpg 20 http://rdonbosco.com/
+/new/ 1 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/robots.txt 12 -
+/sito/wp-includes/wlwmanifest.xml 2 -
+/site/ 1 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/website/wp-includes/wlwmanifest.xml 2 -
+/web/ 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/xmlrpc.php 2 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/main/ 1 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/wlwmanifest.xml 2 -
+/test/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 50
+204.44.192.19 34 34 2636 20200718222218
+119.3.24.235 9 9 3152 20200730172539
+103.118.53.158 5 6 2264 20200723002934
+66.133.109.36 5 5 435 20200718222217
+3.14.255.131 4 4 348 20200718222217
+134.88.135.117 3 4 1308 20200722145102
+178.128.98.251 3 3 2769 20200720091226
+18.196.96.172 3 3 261 20200718222218
+34.222.229.130 3 3 261 20200718222217
+52.28.236.88 2 2 174 20200717185026
+111.7.100.19 2 2 956 20200720174044
+139.5.254.131 2 2 923 20200721115631
+193.148.16.249 2 2 1846 20200720235519
+65.154.226.220 2 2 956 20200718224323
+116.203.50.155 2 2 1846 20200718213554
+34.209.232.166 2 2 174 20200718222217
+77.111.246.38 2 2 0 20200718213903
+18.216.55.250 2 2 496 20200723015442
+36.99.136.135 1 1 478 20200722142850
+18.237.253.214 1 1 248 20200726235902
+104.149.216.41 1 1 478 20200720140204
+111.7.100.21 1 1 478 20200719172512
+96.233.126.129 1 2 352 20200722174315
+69.25.58.61 1 1 923 20200718213110
+51.158.169.206 1 1 248 20200728165621
+83.43.148.90 1 1 478 20200719111026
+77.111.247.56 1 1 478 20200718213850
+52.15.254.228 1 1 87 20200717185037
+64.120.85.144 1 1 478 20200718213824
+111.7.100.24 1 1 248 20200723084125
+77.111.247.60 1 1 0 20200718213920
+44.234.24.130 1 1 248 20200726235858
+138.197.147.71 1 1 0 20200719063419
+72.13.62.25 1 1 478 20200720192216
+65.154.226.109 1 1 478 20200720053853
+111.7.100.20 1 1 478 20200719172511
+27.115.124.66 1 1 478 20200719213916
+36.99.136.132 1 1 478 20200722142922
+134.88.142.64 1 1 478 20200719141515
+111.7.100.26 1 2 352 20200723084127
+23.95.81.116 1 1 478 20200721213951
+206.180.179.239 1 1 248 20200728061711
+34.211.43.179 1 1 248 20200725230423
+185.104.248.7 1 1 0 20200728073411
+138.197.144.119 1 1 0 20200719063419
+135.181.35.237 1 1 923 20200718213606
+101.4.60.64 1 1 478 20200719213511
+58.30.141.60 1 1 478 20200721075713
+52.87.44.246 1 2 352 20200727002927
+109.201.133.6 1 1 923 20200718213528
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20200717 12 12 952 8
+20200718 56 56 10907 17
+20200719 10 10 3824 10
+20200720 12 12 7961 8
+20200721 7 7 3313 6
+20200722 5 7 2138 5
+20200723 6 8 1696 5
+20200725 2 2 496 2
+20200726 3 3 744 3
+20200727 2 3 600 2
+20200728 3 3 496 3
+20200730 1 1 248 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 1
+0s-30s 69
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/ 65 28479 56 56
+/.well-known/acme-challenge/5oVKHMNLO9W1Naa4BKa9V-VvUcBeBLhg8FT-T4qkibQ 4 348 0 0
+/.well-known/acme-challenge/OR-QC5HzvRTiYvyXga6suLekhZAE_nlhkXgjddU8GJw 4 348 2 4
+/.well-known/acme-challenge/F0zhhBTQfilda-Nk-mf9t1K_O28VnmfRdBqrlB8N5P8 4 348 1 2
+/.well-known/acme-challenge/fGIBCyJIlhpsiL2ocjVmchzBaW8Zybjz4sDbKBkNqpY 4 348 0 0
+/.well-known/acme-challenge/nbikLKXCb3t5squaq278KClJuM-zPT8vDzgSVqr9lh0 4 348 0 0
+/.well-known/acme-challenge/PkmeR8iNzM1BVvOdrG_dic0Po1BToSiXsQode-aY-no 4 348 2 2
+/.well-known/acme-challenge/1_QNmCgrwkGujw_A5Dfg1IGl--_vrtLqBZ-uWHlYQFU 4 348 0 1
+/.well-known/acme-challenge/B0OXawd9q14dbyeKCefACzy5qdusRFIWh8WM8WNipTY 4 348 0 0
+/.well-known/acme-challenge/VkQ_hrHMVIPlZFecRm0SbiZS4Zo0NCTUIQRybGqoxVM 4 348 4 2
+/.well-known/acme-challenge/ZQDdYsE6tWwpClQLqRCOzBPEcYAACo3ZHtDOf0EJsJ8 4 348 2 1
+/.well-known/acme-challenge/_EN01_1KBJ-EW3Y2W3_SZZE-L0XQOU5- 1 64 0 1
+/.well-known/acme-challenge/2RIRMWYTN1-P8XD6AEVBW9UH7G6QILQA 1 64 0 0
+/.well-known/acme-challenge/61EZ5X8NLKA_QXKN4G42E-AQC25FHAAI 1 64 1 0
+/.well-known/acme-challenge/_7XPZVD313H7GH0841Y9P-B7R9J8-I22 1 64 0 0
+/.well-known/acme-challenge/YN8WTK5CHP1XGI2F6M82W3FR_M9FQDW2 1 64 0 0
+/.well-known/acme-challenge/0FVRTF4TMQ0KN9CRF5KDFNW-A1Z3H21M 1 64 0 0
+/.well-known/acme-challenge/9SMVVK3MF_2SG-1O585CLML_QTRFQA-Y 1 64 0 0
+/.well-known/acme-challenge/4IMR7Y-VJODTL9J122W_IURSV0GQ_0H6 1 64 0 0
+/.well-known/acme-challenge/Y7FFYEQW_F2P2H_YVBR39R9FZEVI8GFZ 1 64 1 0
+/.well-known/acme-challenge/GR2G4QFVQ9W0XQ3JFDH0QOCPPQFTU2CX 1 64 0 0
+/.well-known/acme-challenge/45CBDSIP48KK4YLFCFLEE4MVE0JQGNG6 1 64 0 0
+/.well-known/acme-challenge/99-F4H3IN3UV-HRX1H2RK4ST77O1HYLB 1 64 0 1
+/.well-known/acme-challenge/XVX74KN3U_XS0B-AXOSV-VWJQ1ANSUU4 1 64 1 0
+/.well-known/acme-challenge/9-72R46X-IFDF2WBLC35DO1KCVTOB5VH 1 64 0 0
+END_SIDER

@@ -1,0 +1,77 @@
+Received: from exim by lpmail09.lunariffic.com with spam-scanned (Exim 4.90_1)
+	(envelope-from <guptam@mit.edu>)
+	id 1gugNp-0004v9-Sy
+	for cynthia@cynthiaschilling.com; Fri, 15 Feb 2019 08:30:48 -0800
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	lpmail09.lunariffic.com
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=SPF_PASS,URIBL_BLOCKED
+	autolearn=disabled version=3.4.0
+Received: from outgoing-exchange-5.mit.edu ([18.9.28.59]:42808)
+	by lpmail09.lunariffic.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <guptam@mit.edu>)
+	id 1gugNp-0004uz-GF
+	for cynthia@cynthiaschilling.com; Fri, 15 Feb 2019 08:30:37 -0800
+Received: from W92EXEDGE6.EXCHANGE.MIT.EDU (W92EXEDGE6.EXCHANGE.MIT.EDU [18.7.73.28])
+	by outgoing-exchange-5.mit.edu (8.14.7/8.12.4) with ESMTP id x1FGV3Gr021034;
+	Fri, 15 Feb 2019 11:31:17 -0500
+Received: from W92EXHUB15.exchange.mit.edu (18.7.73.26) by
+ W92EXEDGE6.EXCHANGE.MIT.EDU (18.7.73.28) with Microsoft SMTP Server (TLS) id
+ 14.3.439.0; Fri, 15 Feb 2019 11:30:26 -0500
+Received: from OC11EXPO31.exchange.mit.edu ([169.254.1.191]) by
+ W92EXHUB15.exchange.mit.edu ([18.7.73.26]) with mapi id 14.03.0352.000; Fri,
+ 15 Feb 2019 11:30:27 -0500
+From: Mukund Gupta <guptam@mit.edu>
+To: "cynthia@cynthiaschilling.com" <cynthia@cynthiaschilling.com>
+CC: "linda-ssss@hotmail.com" <linda-ssss@hotmail.com>
+Subject: Re: Paint night at MIT
+Thread-Topic: Paint night at MIT
+Thread-Index: AQHUxJzIpPnbvrJGmkm8aPBUP+7eLqXgTqoAgAC/kwA=
+Date: Fri, 15 Feb 2019 16:30:27 +0000
+Message-ID: <739295D2-7326-4E30-BBEC-1ABAAE0D19E7@exchange.mit.edu>
+References: <994254E0-78FC-448E-999A-6A3080562E52@exchange.mit.edu>
+ <724eae234587ab5da9f6fbc1fb4f3f87@cynthiaschilling.com>
+In-Reply-To: <724eae234587ab5da9f6fbc1fb4f3f87@cynthiaschilling.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [18.9.1.89]
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <CFC75E9218B24E4ABB14C85B5FE0F4F0@exchange.mit.edu>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+SGkgQ3ludGhpYSwNCg0KVGhhdOKAmXMgZ3JlYXQhIFdl4oCZcmUgdGhpbmtpbmcgaW4gdGhlIGV2
+ZW5pbmcgYmV0d2VlbiA3LTlwbSBzb21ldGltZSBiZXR3ZWVuIFR1ZXNkYXkgYW5kIFRodXJzZGF5
+IHRoYXQgd2Vlay4gDQoNCkkgd2FzIHdvbmRlcmluZyBpZiB3ZSBjb3VsZCB0YWxrIG92ZXIgdGhl
+IHBob25lIHJlZ2FyZGluZyB0aGUgZm9ybWF0IG9mIHRoZSBldmVudCwgdGhlIHByaWNlLCBvcmdh
+bml6YXRpb24gZXRjLiBJIHRoaW5rIGl0IHdpbGwgYmUgZWFzaWVyIHRvIGRpc2N1c3MgdmVyYmFs
+bHkgcmF0aGVyIHRoYW4gb3ZlciBlbWFpbC4gDQoNCkxldCBtZSBrbm93IHdoYXQgdGltZSB3b3Jr
+cyBmb3IgeW91LiBJIGFtIHF1aXRlIGZyZWUgb3ZlciB0aGUgY29taW5nIGRheXMgKGluY2x1ZGlu
+ZyB0aGUgd2Vla2VuZCkuDQoNCkJlc3QsDQpNdWt1bmQNCg0KDQpPbiAyLzE0LzE5LCA3OjA0IFBN
+LCAiY3ludGhpYUBjeW50aGlhc2NoaWxsaW5nLmNvbSIgPGN5bnRoaWFAY3ludGhpYXNjaGlsbGlu
+Zy5jb20+IHdyb3RlOg0KDQogICAgSGkgTXVrdW5kLA0KICAgIA0KICAgIFllcywgSSdkIGJlIGhh
+cHB5IHRvISBJIGluc3RydWN0ZWQgYSBwYWludCBuaWdodCBldmVudCBhdCBNSVQgYSBjb3VwbGUg
+DQogICAgbW9udGhzIGFnbywgYW5kIGl0IHdhcyBhIGxvdCBvZiBmdW4hIFlvdSBjYW4gc2VlIHNv
+bWUgb2YgbXkgcGFpbnRpbmdzIG9uIA0KICAgIG15IHdlYnNpdGUgaWYgeW91J2QgbGlrZTogaHR0
+cDovL3d3dy5jeW50aGlhc2NoaWxsaW5nLmNvbS9hYm91dC5odG1sLiANCiAgICBJJ20gZmluaXNo
+aW5nIGEgZGVncmVlIGluIHN0dWRpbyBhcnQgYW5kIGdyYXBoaWMgZGVzaWduLCBhbmQgd2lsbCBz
+dGFydCANCiAgICBncmFkdWF0ZSBzY2hvb2wgaW4gdGhlIGZhbGwgKHdpbGwgZGVjaWRlIG9uIHdo
+aWNoIHNjaG9vbCBpbiBhIGZldyB3ZWVrcywgDQogICAgYWZ0ZXIgSSBoZWFyIGZyb20gYWxsIHRo
+ZSBvbmVzIEkgYXBwbGllZCB0bykuDQogICAgDQogICAgRG8geW91IGtub3cgd2hpY2ggZGF5L3Rp
+bWUgdGhlIGV2ZW50IHdpbGwgYmUgaGVsZD8gVGh1cnNkYXksIEZyaWRheSwgYW5kIA0KICAgIFNh
+dHVyZGF5IGV2ZW5pbmdzIHdvdWxkIGJlIGVhc2llc3QgZm9yIG1lLCBidXQgSSBtaWdodCBiZSBh
+YmxlIHRvIG1ha2UgDQogICAgaXQgb3RoZXIgZGF5cyBhcyB3ZWxsLg0KICAgIA0KICAgIEkgbG9v
+ayBmb3J3YXJkIHRvIGhlYXJpbmcgZnJvbSB5b3UhDQogICAgDQogICAgQmVzdCwNCiAgICBDeW50
+aGlhDQogICAgDQogICAgDQogICAgT24gMjAxOS0wMi0xNCAxNDozNywgTXVrdW5kIEd1cHRhIHdy
+b3RlOg0KICAgID4gRGVhciBDeW50aGlhLA0KICAgID4gDQogICAgPiBJIGFtIGEgZ3JhZHVhdGUg
+c3R1ZGVudCBhdCBNSVQgYW5kIGFtIGxvb2tpbmcgdG8gb3JnYW5pemUgYSBwYWludA0KICAgID4g
+bmlnaHQgZXZlbnQgb24gY2FtcHVzIGR1cmluZyB0aGUgZmlyc3Qgd2VlayBvZiBBcHJpbC4gSSB3
+YXMgZ2l2ZW4geW91cg0KICAgID4gY29udGFjdCBieSB5b3VyIHNpc3RlciBIYWlsZXkuDQogICAg
+PiANCiAgICA+IEkgd2FzIHdvbmRlcmluZyBpZiB5b3Ugd291bGQgYmUgaW50ZXJlc3RlZCBpbiBi
+ZWluZyB0aGUgaW5zdHJ1Y3RvciBmb3INCiAgICA+IHRoZSBldmVudC4gSWYgc28sIHdoYXQga2lu
+ZCBvZiBleHBlcmllbmNlIHlvdSBoYXZlIGluIHRoaXMgZG9tYWluPw0KICAgID4gDQogICAgPiBM
+b29raW5nIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdS4NCiAgICA+IA0KICAgID4gQmVzdCwN
+CiAgICA+IA0KICAgID4gTXVrdW5kIEd1cHRhDQogICAgDQoNCg==

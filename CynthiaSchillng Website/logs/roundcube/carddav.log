@@ -1,0 +1,14 @@
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0000-dbinit
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 7 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0000-sample
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 1 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0001-categories
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 1 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0002-increasetextfieldlengths
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 7 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0003-fixtimestampdefaultvalue
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 1 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0004-fixtimestampdefaultvalue
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 1 matches
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> In migration: 0005-changemysqlut8toutf8mb4
+[31-Aug-2020 18:56:42 -0700]: <725a8eff> Found 1 matches

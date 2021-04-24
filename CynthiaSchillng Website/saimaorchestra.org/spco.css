@@ -1,0 +1,137 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+*{
+box-sizing: border-box;
+color: #a6a6a6;
+font-family: 'Lato', sans-serif;
+}
+
+.new-site{
+	display:flex;
+	align-items: center;
+	justify-content:center;
+
+	
+}
+
+.new-site div{
+	width: 98vw;
+	height: 100vw;
+	text-align:center;
+	vertical-align:center;
+	padding-top: 30vh;
+	font-size: 7vw;
+color: red;
+animation-name: color-change;
+animation-duration: 6s;
+animation-iteration-count: infinite;
+animation-timing-function: ease-in-out;
+}
+
+@keyframes color-change {
+0%   {color: rgb(47, 172, 255);}
+25%  {color:  lightsteelblue;}
+50%  {color: royalblue;}
+100% {color: rgb(47, 172, 255);}
+}
+.wrapper {
+	margin-left: 5vw;
+	margin-right: 5vw;
+
+}
+
+  /* Main title and welcome note start */
+.main{
+	height: 100vh;
+}
+.main-title{
+	font-family: 'Lora', serif;
+	color: #666666;
+	font-weight: 500;
+	font-size: 40px;
+	text-align:center;
+	padding-top: 15%;
+}
+
+.welcome-paragraph{
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 25px;
+	line-height: 33px;
+	max-width: 730px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+  /* Main title and welcome note end */
+
+/*Ensemble sections start */
+
+.section{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-content: center;
+	flex-direction: row;
+	margin-bottom: 50px;
+	max-height: 100vh;
+}
+
+.text{
+	font-size: 17px; 
+	line-height: 25px;
+	padding-top: 15vh;
+	max-width: 450px;
+}
+
+.ensemble-title{
+	font-family: 'Lora', serif;
+	font-weight: 500;
+	color: #666666;
+	font-size: 30px;
+}
+
+.portrait-image{
+max-height: 90vh;
+max-width: 50vw;
+justify-content: center;
+object-fit: contain;
+padding-right: 20px;
+padding-left: 20px;
+}
+/*Ensemble sections End */
+
+
+    /* information for covid and join start */
+  .heading-title{
+	font-family: 'Lora', serif;
+	font-weight: 500;
+	color: #666666;
+	  margin-top: 5vw;
+	  font-size: 30px;
+	  margin-left: 5vw;
+  }
+
+  .information{
+	font-size: 17px; 
+	line-height: 25px;
+	max-width: 750px;
+	margin-left: 10vw;
+  }
+
+  /* information for covid and join start */
+
+  /* footer start */
+.footer{
+	margin-top: 4vw;
+	border-top: 2px solid  #c5c4c4;
+	padding-top: 3vw;
+	margin-bottom: 4vw;
+	text-align: center;
+	font-size: 16px;
+}
+  /* footer end */
+  

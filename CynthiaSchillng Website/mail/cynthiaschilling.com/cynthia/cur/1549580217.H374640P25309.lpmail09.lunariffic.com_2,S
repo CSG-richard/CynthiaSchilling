@@ -1,0 +1,51 @@
+Received: from exim by lpmail09.lunariffic.com with spam-scanned (Exim 4.90_1)
+	(envelope-from <noreply@hyperallergic.com>)
+	id 1grsbC-0006ZM-CD
+	for cynthia@cynthiaschilling.com; Thu, 07 Feb 2019 14:56:57 -0800
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	lpmail09.lunariffic.com
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.5 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	FREEMAIL_FORGED_REPLYTO,RCVD_IN_DNSWL_BLOCKED,SPF_SOFTFAIL,URIBL_BLOCKED
+	autolearn=disabled version=3.4.0
+Received: from mail-183-223.wpengine.com ([23.253.183.223]:13690)
+	by lpmail09.lunariffic.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <noreply@hyperallergic.com>)
+	id 1grsbC-0006ZA-59
+	for cynthia@cynthiaschilling.com; Thu, 07 Feb 2019 14:56:50 -0800
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mail.wpengine.com; q=dns/txt;
+ s=mx; t=1549580208; h=Content-Transfer-Encoding: Content-Type:
+ MIME-Version: Message-ID: Reply-To: From: Date: Subject: To;
+ bh=S5y9jOas2b0JDHl3QFls45bvTlp5iZz5ZdYbFcEGGRI=; b=E1ch8i1mFtYH7Txjr+NxA29XN+5cSKVWYUCLhrekxHC/usgDMv6PAX6v+ocucL5FHpAH3lsT
+ B+xWGYxIEKCT+txgAbushoKMhnpbpspW45c6ZnsGO1H4gwlqz2oZNu0KfL+elg77Ie4f6bRZ
+ 3Tp1IJ1vTU6/L100cX5sZ4vHOLI=
+X-Mailgun-Sending-Ip: 23.253.183.223
+X-Mailgun-Sid: WyI2M2JiYiIsICJjeW50aGlhQGN5bnRoaWFzY2hpbGxpbmcuY29tIiwgIjk4NzhkMSJd
+Received: from pod-130401 (186.131.196.104.bc.googleusercontent.com [104.196.131.186])
+ by mxa.mailgun.org with ESMTP id 5c5cb7af.7f318802f180-smtp-out-n03;
+ Thu, 07 Feb 2019 22:56:47 -0000 (UTC)
+Received: from pod-130401 (localhost [127.0.0.1])
+	by pod-130401 (Postfix) with ESMTP id 2FB03141D1E
+	for <cynthia@cynthiaschilling.com>; Thu,  7 Feb 2019 22:56:46 +0000 (UTC)
+X-Mailgun-Native-Send: yes
+Received: from pod-130401 (localhost [127.0.0.1])
+	by pod-130401 (Postfix) with SMTP id 1EBCD141D1D
+	for <cynthia@cynthiaschilling.com>; Thu,  7 Feb 2019 22:56:45 +0000 (UTC)
+X-Mailgun-Native-Send: yes
+Received: by pod-130401 (sSMTP sendmail emulation); Thu, 07 Feb 2019 22:56:45 +0000
+To: cynthia@cynthiaschilling.com
+Subject: Your friend donaldo has shared an article with you.
+X-PHP-Originating-Script: 33:mail_hook.php
+X-WPE-Internal-ID: 71d92dc306ff9dae4e9361ce178ab2ae58786543
+Date: Thu, 7 Feb 2019 22:56:45 +0000
+From: Hyperallergic <noreply@hyperallergic.com>
+Reply-To: donaldo <donald_tarallo@yahoo.com>
+Message-ID: <6abec83d4b9179daaf8c76b787b8ebc7@hyperallergic.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Beer with a Painter: Alfredo Gisholt 
+https://hyperallergic.com/452261/beer-with-a-painter-alfredo-gisholt/

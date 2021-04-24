@@ -1,0 +1,142 @@
+Received: from exim by lpmail09.lunariffic.com with spam-scanned (Exim 4.90_1)
+	(envelope-from <3TLZcXA4JBxUEvCv669.yzD31817v36.x97xJ8E23vxJ8E23vDx2366381.x97@doclist.bounces.google.com>)
+	id 1grsVS-0006Cx-8s
+	for cynthia@cynthiaschilling.com; Thu, 07 Feb 2019 14:50:54 -0800
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	lpmail09.lunariffic.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_FORGED_FROMDOMAIN,FREEMAIL_FROM,
+	HEADER_FROM_DIFFERENT_DOMAINS,HTML_MESSAGE,RCVD_IN_DNSWL_NONE,
+	RCVD_IN_MSPIKE_H2,SPF_PASS,T_REMOTE_IMAGE autolearn=disabled version=3.4.0
+Received: from mail-qk1-f199.google.com ([209.85.222.199]:39021)
+	by lpmail09.lunariffic.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <3TLZcXA4JBxUEvCv669.yzD31817v36.x97xJ8E23vxJ8E23vDx2366381.x97@doclist.bounces.google.com>)
+	id 1grsVS-0006Co-3T
+	for cynthia@cynthiaschilling.com; Thu, 07 Feb 2019 14:50:54 -0800
+Received: by mail-qk1-f199.google.com with SMTP id d196so1516167qkb.6
+        for <cynthia@cynthiaschilling.com>; Thu, 07 Feb 2019 14:50:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:references:message-id:date:subject:from:to;
+        bh=JbVnxu9wEpg0LXL839SbzxYaiTkWdM+gryMXji43GOE=;
+        b=ISyPeaUvRCSJPHpZx9yz4XeqOk8hLa8tTTI9+iuHpAvz/n/Vy9wPJNCaAh/mpafZcO
+         GsvZammH6ygoIK82jx2RrrZ1CudR2H1vw0gPxND5tWOchAWw1x76bgW8oec/5y673Jus
+         855rPYbi87ZPQ8n+ZShWMB3d583CnRVYtfIbFlgDQu//A3kmSqj+emLjmqSULGbinXSH
+         Lucduiou9xWH5gSr+NBb9N5Jlf4sZPJpHT+M/rkHWalYGyaQfdXW5KMqKGxNx93BERh4
+         8RUPMJZIbInuNdQl0swALoSPwGXr82+BZlB8Kzp+m/xUndNIylig+1q5VNYLCOfseewV
+         D6cg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:references:message-id:date
+         :subject:from:to;
+        bh=JbVnxu9wEpg0LXL839SbzxYaiTkWdM+gryMXji43GOE=;
+        b=txD5lJV1br0wvj9hynasZQZAi0xTtq8PvsooasGSk0SR4sW6Dm8B3+dlsNpgi4E9v7
+         f2L6m5TuJS2P8fYIgBd9r5mUS/7/nShgowFowMAOKGJW2PZDXmztd4xofF/b7AtRnwXN
+         oow6QY6VJ8R0vXllBUyk2na7RrNLZY5dP5ByT0+Kpq2msBm7g4VA6xldKr4d0ZDhAKhk
+         m18VkT/3KkEnZoH262EOV0YFUSWZJdbczV1OClALhW6dNNgb1cyV2mDu/6SzffMj19Ck
+         UDWszIGG23x7t7yPirK99fpPw9rCJuk8NDsQDPmUbYXyOHAH5+WuNNBEinopLj+9JjAs
+         LW5w==
+X-Gm-Message-State: AHQUAuZyIPF9ECqZTn+esnCAFhmlXluts+lN+3uFuR6EHvTxDk8FerYJ
+	u7S6rjre4KDwe0wBGJ35oQGXRtYe48M=
+X-Google-Smtp-Source: AHgI3Ibp40n0SJ7uiIMXXuqCi9uv6pQg3tqPCrFaJmPUe5LCdWdS9KfcVCbUxIUtNGpgn7ciW2pbCcmg9zM=
+MIME-Version: 1.0
+X-Received: by 2002:aed:3e88:: with SMTP id n8mr10854305qtf.42.1549579852414;
+ Thu, 07 Feb 2019 14:50:52 -0800 (PST)
+Reply-To: test test <tarallo.design@gmail.com>
+X-No-Auto-Attachment: 1
+References: <f4ecef19-f76f-4ea2-9553-ee0016e4311c@docs-share.google.com>
+Message-ID: <000000000000a785d8058155ac7d@google.com>
+Date: Thu, 07 Feb 2019 22:50:52 +0000
+Subject: IMG_8146.MOV
+From: "test test (via Google Drive)" <tarallo.design@gmail.com>
+To: cynthia@cynthiaschilling.com
+Content-Type: multipart/alternative; boundary="000000000000a785b7058155ac7a"
+
+--000000000000a785b7058155ac7a
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+I've shared an item with you:
+
+IMG_8146.MOV
+http://drive.google.com/file/d/1hPQ5MCXHooViAB9iQtGv-la_gWlhlQ4y/view?usp=sharing&invite=COTMz7kI&ts=5c5cb64c
+
+It's not an attachment -- it's stored online. To open this item, just click  
+the link above.
+
+
+--000000000000a785b7058155ac7a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"width: 100%; padding: 24px 0 16px 0;=
+ background-color: #f5f5f5; text-align: center;"><div style=3D"display: inl=
+ine-block; width: 90%; max-width: 680px;min-width: 280px; text-align: left;=
+ font-family: Roboto,Arial,Helvetica,sans-serif;"><div style=3D"height: 0px=
+;" dir=3D"ltr"></div><div style=3D"display: block; padding: 0 2px;"><div st=
+yle=3D"display: block; background: #fff; height: 2px;"></div></div><div sty=
+le=3D"border-left: 1px solid #f0f0f0; border-right: 1px solid #f0f0f0;"><di=
+v style=3D"padding: 24px 32px 24px 32px; background:#fff; border-right: 1px=
+ solid #eaeaea; border-left: 1px solid #eaeaea;" dir=3D"ltr"><div style=3D"=
+font-size: 14px; line-height: 18px; color: #444;"><a href=3D"mailto:tarallo=
+.design@gmail.com" style=3D"color:inherit;text-decoration:none">tarallo.des=
+ign@gmail.com</a> has shared the following video:</div><div style=3D"height=
+: 10px;"></div><div style=3D"font-size: 18px; display: table;"><div style=
+=3D"display: table-row; border-bottom: 4px solid #fff;"><span style=3D"disp=
+lay: table-cell;"><div style=3D"height: 32px;"><img src=3D"https://ssl.gsta=
+tic.com/docs/documents/share/images/services/video-5.png" aria-label=3D"Vid=
+eo" style=3D"vertical-align: middle; max-width: 24px;"/></div></span><span =
+style=3D"display: table-cell; padding-left: 12px; word-break: break-word;">=
+<a href=3D"http://drive.google.com/file/d/1hPQ5MCXHooViAB9iQtGv-la_gWlhlQ4y=
+/view?usp=3Dsharing_eil&amp;invite=3DCOTMz7kI&amp;ts=3D5c5cb64c" style=3D"c=
+olor: #3367d6; text-decoration: none; vertical-align: middle;">IMG_8146.MOV=
+</a><div itemprop=3D"action" itemscope itemtype=3D"http://schema.org/ViewAc=
+tion"><meta itemprop=3D"url" content=3D"http://drive.google.com/file/d/1hPQ=
+5MCXHooViAB9iQtGv-la_gWlhlQ4y/view?usp=3Dsharing_eil&amp;invite=3DCOTMz7kI&=
+amp;ts=3D5c5cb64c"></div></span></div></div><div style=3D"height: 32px;"></=
+div><div><a href=3D"http://drive.google.com/file/d/1hPQ5MCXHooViAB9iQtGv-la=
+_gWlhlQ4y/view?usp=3Dsharing_eip&amp;invite=3DCOTMz7kI&amp;ts=3D5c5cb64c" t=
+arget=3D"_blank" style=3D"background-color: #4d90fe; border: 1px solid #307=
+9ed; border-radius: 2px; color: white; display: inline-block; font-family: =
+Roboto,Arial,Helvetica,sans-serif; font-size: 11px; font-weight: bold; heig=
+ht: 29px; line-height: 29px; min-width: 54px; outline: 0px; padding: 0 8px;=
+ text-align: center; text-decoration: none">Open</a></div><div style=3D"hei=
+ght: 24px;"></div><div style=3D"background: #fce8b2; font-size: 13px; color=
+: #444; border-radius: 2px; padding: 5px 10px;">This email grants access to=
+ this item without logging in. Only forward it to people you trust.</div></=
+div></div><table style=3D"width: 100%; border-collapse: collapse;" role=3D"=
+presentation"><tr><td style=3D"padding: 0px;"><table style=3D"border-collap=
+se: collapse; width: 3px;" role=3D"presentation"><tr height=3D"1"><td width=
+=3D"1" bgcolor=3D"#f0f0f0" style=3D"padding: 0px;"></td><td width=3D"1" bgc=
+olor=3D"#eaeaea" style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#e=
+5e5e5" style=3D"padding: 0px;"></td></tr><tr height=3D"1"><td width=3D"1" b=
+gcolor=3D"#f0f0f0" style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"=
+#eaeaea" style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#eaeaea" s=
+tyle=3D"padding: 0px;"></td></tr><tr height=3D"1"><td width=3D"1" bgcolor=
+=3D"#f5f5f5" style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#f0f0f=
+0" style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#f0f0f0" style=
+=3D"padding: 0px;"></td></tr></table></td><td style=3D"width: 100%; padding=
+: 0px;"><div style=3D"height: 1px; width: auto; border-top: 1px solid #ddd;=
+ background:#eaeaea; border-bottom: 1px solid #f0f0f0;"></div></td><td styl=
+e=3D"padding: 0px;"><table style=3D"border-collapse: collapse; width: 3px;"=
+ role=3D"presentation"><tr height=3D"1"><td width=3D"1" bgcolor=3D"#e5e5e5"=
+ style=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#eaeaea" style=3D"=
+padding: 0px;"></td><td width=3D"1" bgcolor=3D"#f0f0f0" style=3D"padding: 0=
+px;"></td></tr><tr height=3D"1"><td width=3D"1" bgcolor=3D"#eaeaea" style=
+=3D"padding: 0px;"></td><td width=3D"1" bgcolor=3D"#eaeaea" style=3D"paddin=
+g: 0px;"></td><td width=3D"1" bgcolor=3D"#f0f0f0" style=3D"padding: 0px;"><=
+/td></tr><tr height=3D"1"><td width=3D"1" bgcolor=3D"#f0f0f0" style=3D"padd=
+ing: 0px;"></td><td width=3D"1" bgcolor=3D"#f0f0f0" style=3D"padding: 0px;"=
+></td><td width=3D"1" bgcolor=3D"#f5f5f5" style=3D"padding: 0px;"></td></tr=
+></table></td></tr></table><table style=3D"padding: 14px 10px 0 10px;" role=
+=3D"presentation" dir=3D"ltr"><tr><td style=3D"width: 100%; font-size:11px;=
+ font-family: Roboto,Arial,Helvetica,sans-serif; color:#646464; line-height=
+: 20px; min-height: 40px; vertical-align: middle;">Google Drive: Have all y=
+our files within reach from any device. <br/>Google LLC, 1600 Amphitheatre =
+Parkway, Mountain View, CA 94043, USA</td><td style=3D"padding-left: 20px; =
+vertical-align: middle;"><a href=3D"http://drive.google.com" target=3D"_bla=
+nk"><img src=3D"https://www.gstatic.com/images/branding/googlelogo/1x/googl=
+elogo_tm_black54_color_96x40dp.png" width=3D"96" alt=3D"Logo for Google Dri=
+ve" border=3D"0"></a></td></tr></table></div></div></body></html>
+--000000000000a785b7058155ac7a--

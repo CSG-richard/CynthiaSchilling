@@ -1,0 +1,105 @@
+Received: from exim by lpmail09.lunariffic.com with spam-scanned (Exim 4.89)
+	(envelope-from <don@tarallodesign.com>)
+	id 1eBPKv-0006fn-VO
+	for cynthia@cynthiaschilling.com; Sun, 05 Nov 2017 13:07:58 -0500
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	lpmail09.lunariffic.com
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=HTML_MESSAGE,
+	RCVD_IN_DNSWL_NONE autolearn=disabled version=3.4.0
+Received: from lpmail03.lunariffic.com ([74.50.13.95]:55126)
+	by lpmail09.lunariffic.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <don@tarallodesign.com>)
+	id 1eBPKv-0006fe-QD
+	for cynthia@cynthiaschilling.com; Sun, 05 Nov 2017 13:07:57 -0500
+Received: from didius.lunariffic.com ([209.200.227.230]:35299 helo=tarallodesign.com)
+	by lpmail03.lunariffic.com with esmtpa (Exim 4.72)
+	(envelope-from <don@tarallodesign.com>)
+	id 1eBPKu-0002E7-G1
+	for cynthia@cynthiaschilling.com; Sun, 05 Nov 2017 10:07:56 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_46191da38dffda068e5470037cd87e3e"
+Date: Sun, 05 Nov 2017 13:07:55 -0500
+From: Donald Tarallo <don@tarallodesign.com>
+To: cynthia@cynthiaschilling.com
+Subject: Re: upload website is not working
+Organization: Tarallo Design
+Reply-To: don@tarallodesign.com
+Mail-Reply-To: don@tarallodesign.com
+In-Reply-To: <0dae7ae807f26a3173c5e64fc5b297bd@cynthiaschilling.com>
+References: <0dae7ae807f26a3173c5e64fc5b297bd@cynthiaschilling.com>
+Message-ID: <89879f5b0b44bc5cba8d279e9f7f7c8e@tarallodesign.com>
+X-Sender: don@tarallodesign.com
+User-Agent: Roundcube Webmail/1.0.11
+
+--=_46191da38dffda068e5470037cd87e3e
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII
+
+ 
+
+hmm.. 
+
+i would try to use cyberduck to login to the ftp. then just upload the
+files into the public html folder. i would ignore this warning. 
+
+let me know how it goes. 
+
+don 
+
+On 2017-11-05 11:25, cynthia@cynthiaschilling.com wrote: 
+
+> Hello, I'm trying to upload my website, but I don't think I'm doing it right. I attached a screenshot of one of the problems. Is that message supposed to come up, and is it okay to press continue? Messages about invalid servers and encryptions and certificates keep coming up, but I don't know what they mean. Thanks
+
+-- 
+
+...................
+
+Graphic Designer 
+www.tarallodesign.com [1]
+ 
+
+Links:
+------
+[1] http://www.tarallodesign.com
+
+--=_46191da38dffda068e5470037cd87e3e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html><body style=3D'font-size: 10pt; font-family: Verdana,Geneva,sans-seri=
+f'>
+<p>hmm..</p>
+<p>i would try to use cyberduck to login to the ftp. then just upload the f=
+iles into the public html folder. i would ignore this warning.</p>
+<p>let me know how it goes.</p>
+<p>&nbsp;</p>
+<p>don</p>
+<p>&nbsp;</p>
+<p>On 2017-11-05 11:25, cynthia@cynthiaschilling.com wrote:</p>
+<blockquote type=3D"cite" style=3D"padding-left:5px; border-left:#1010ff 2p=
+x solid; margin-left:5px"><!-- html ignored --><!-- head ignored --><!-- me=
+ta ignored -->
+<pre>Hello, I'm trying to upload my website, but I don't think I'm doing it=
+ right. I attached a screenshot of one of the problems. Is that message sup=
+posed to come up, and is it okay to press continue? Messages about invalid =
+servers and encryptions and certificates keep coming up, but I don't know w=
+hat they mean. Thanks
+</pre>
+</blockquote>
+<p>&nbsp;</p>
+<div>-- <br />
+<pre><span style=3D"font-size: xx-large; color: #2595d9; font-family: 'anda=
+le mono', times;">...................</span></pre>
+<pre><span style=3D"font-family: terminal, monaco;"><span style=3D"color: #=
+2595d9;">Graphic Designer&nbsp;<br /></span><span style=3D"color: #2595d9;"=
+><a title=3D"Tarallo Design" href=3D"http://www.tarallodesign.com">www.tara=
+llodesign.com</a></span></span></pre>
+</div>
+</body></html>
+
+--=_46191da38dffda068e5470037cd87e3e--
+

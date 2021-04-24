@@ -1,0 +1,630 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home/cynth29/tmp/awstats/awstats.cynthiaschilling.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2694                
+POS_VISITOR 13405               
+POS_DAY 17181               
+POS_DOMAIN 3518                
+POS_LOGIN 3931                
+POS_ROBOT 4086                
+POS_WORMS 5015                
+POS_EMAILSENDER 5146                
+POS_EMAILRECEIVER 5289                
+POS_SESSION 17934               
+POS_SIDER 18141               
+POS_FILETYPES 5424                
+POS_DOWNLOADS 5618                
+POS_OS 5666                
+POS_BROWSER 5952                
+POS_SCREENSIZE 7178                
+POS_UNKNOWNREFERER 7252                
+POS_UNKNOWNREFERERBROWSER 7915                
+POS_ORIGIN 8189                
+POS_SEREFERRALS 8327                
+POS_PAGEREFS 8514                
+POS_SEARCHWORDS 8765                
+POS_KEYWORDS 8917                
+POS_MISC 2358                
+POS_ERRORS 8976                
+POS_CLUSTER 3787                
+POS_SIDER_404 9080                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101002032 52 10092 9471321646097
+FirstTime 20201201015139
+LastTime 20201231192218
+LastUpdate 20210101041905 52 0 51 0 0
+TotalVisits 121                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 98                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 9 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 45 499059 27 38 142141
+1 11 45 3963154 24 40 431238
+2 8 10 19951 24 50 866268
+3 6 6 12984 39 66 445580
+4 20 20 27991 28 44 306394
+5 7 10 21095 95 115 3025629
+6 3 3 6888 52 72 927866
+7 4 5 125214 72 81 418865
+8 14 22 265645 46 69 316117
+9 12 17 649299 38 63 645367
+10 9 51 1211377 34 48 474483
+11 7 31 807657 33 49 3229687
+12 18 44 3537977 24 35 319669
+13 11 56 11632838 51 63 486043
+14 69 201 20589090 50 74 249076
+15 18 87 13166559 80 93 766301
+16 30 119 12726299 31 51 674601
+17 106 121 2932534 33 46 467671
+18 50 180 18757617 27 43 372618
+19 34 69 5890395 23 31 402037
+20 31 181 16366636 21 32 400255
+21 15 25 201219 28 43 569117
+22 14 18 4783887 20 30 2606264
+23 2 16 460005 26 45 442685
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 431 1187 104309898
+ca 35 88 7008924
+se 21 21 30155
+cn 10 10 36189
+gb 8 16 236941
+ru 6 6 19677
+de 5 5 16801
+ua 3 37 6836344
+in 3 3 6492
+fr 3 3 26571
+zz 2 2 4328
+cl 2 2 4328
+pl 1 1 8857
+jp 0 1 109865
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+Googlebot/ 230 87337 20201231214329 0
+AhrefsBot/ 161 257038 20201231194600 0
+bingbot/ 157 4999527 20201231194417 0
+bot[\s_+:,\.\;\/\\-] 117 5587581 20201231223312 0
+MJ12bot/ 76 86937 20201221151808 0
+link 59 69665 20201206073136 0
+crawl 32 47209 20201215155032 0
+MegaIndex\.ru/ 31 37319 20201206070100 0
+Googlebot\-Image/ 16 4328419 20201230152300 0
+SemrushBot/ 15 23633 20201230005912 0
+no_user_agent 5 44285 20201221054324 0
+DotBot/ 4 8109 20201204034449 0
+discover 4 8656 20201222012714 0
+CFNetwork 3 2187 20201230083344 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 6492 20201224131240 0
+curl 2 2164 20201230164906 0
+facebookexternalhit/ 2 1000 20201231165502 0
+TelegramBot 1 1048 20201208131524 0
+Dalvik/ 1 2164 20201203122630 0
+Links[\x20]\( 1 1831 20201226152033 0
+YandexBot/ 1 2164 20201221165006 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 55 96115 0 0
+html 518 815051 0 0
+Unknown 12 860 0 0
+png 143 68538074 0 0
+jpg 617 49173409 0 0
+svg 1 5617 0 0
+gif 36 26244 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+winlong 2 1
+macosx8 1 1
+linuxandroid 13 4
+ios_iphone 120 25
+winxp 1 1
+macosx10 9 9
+macosx12 92 32
+linux 60 27
+win8.1 16 1
+win10 93 93
+ios_ipad 15 1
+Unknown 104 43
+win7 12 12
+macosx9 11 11
+macosx11 101 101
+macosx 732 168
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+safari9.0 15 1
+safari12.1.2 123 30
+edge13 1 1
+chrome12.0.712.0 1 1
+chrome52.0.2743.116 8 8
+safari14.0.1 11 1
+safari13.1.1 1 1
+chrome79.0.3945.130 24 24
+chrome41.0.2227.0 1 1
+chrome86.0.4240.198 143 37
+firefox81.0 2 2
+chrome81.0.4044.129 2 2
+safari12.0 1 1
+chrome78.0.3904.70 15 1
+chrome46.0.2490.71 5 5
+chrome45.0.2454.94 1 1
+safari 116 22
+firefox68.0 1 1
+firefox52.0 100 100
+chrome71.0.3578.98 3 3
+chrome35.0.1916.47 1 1
+firefox83.0 106 26
+chrome26.0.1410.65 1 1
+chrome72.0.3626.109 2 2
+chrome58.0.3029.110 6 6
+safari10.0 1 1
+firefox59.0 1 1
+chrome80.0.3987.122 1 1
+chrome5.0.309.0 1 1
+firefox12.0 1 1
+chrome87.0.4280.88 134 22
+chrome51.0.2704.103 10 10
+mozilla 33 25
+chrome83.0.4103.97 3 3
+safari14.0 26 2
+chrome84.0.4147.105 1 1
+chrome86.0.4240.75 1 1
+chrome81.0.4044.138 1 1
+safari11.0 1 1
+iphone 1 0
+Unknown 73 20
+chrome40.0.2214.93 1 1
+msie11.0 1 1
+chrome85.0.4183.121 19 4
+firefox28.0 2 2
+chrome80.0.3987.149 1 1
+firefox54.0 1 1
+chrome85.0.4183.102 17 13
+chrome86.0.4240.183 292 78
+chrome59.0.3071.115 4 4
+chrome47.0.2526.106 1 1
+msie9.0 2 1
+firefox79.0 1 1
+chrome51.0.2704.81 2 0
+chrome87.0.4280.101 10 3
+chrome74.0.3729.169 16 16
+chrome85.0.4183.83 32 32
+edge18 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201206223619
+Ruby 20201220181400
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201214083636
+Go-http-client/1.1 20201221140243
+Cpanel-HTTP-Client/1.0 20201206220708
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201201231909
+Mozilla/5.0_(compatible;_ips-agent) 20201201015141
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20201231134450
+Embarcadero_URI_Client/1.0 20201208075030
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20201201200640
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20201201200640
+Cpanel-HTTP-Client/1.0 20201206220708
+Go-http-client/1.1 20201221140243
+Ruby 20201220181400
+Embarcadero_URI_Client/1.0 20201208075030
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 335 395
+From1 0 0
+From2 6 8
+From3 2 2
+From4 187 977
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 5 7
+us_search_yahoo_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://pnsks.csucces.net/blog/54121724/view/ 1 1
+http://yfib.makenahartlin.com/blog/54121724/view/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 390 3358333
+403 1 10220
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 83
+/ckeditor/kcfinder/browse.php 1 -
+/OLD/wp-admin/ 1 http://cynthiaschilling.com/
+/modules/autoupgrade/vendor/phpunit/phpunit/build.xml 1 -
+/wp/wp-admin/ 1 http://cynthiaschilling.com/
+/modules/ps_facetedsearch/vendor/phpunit/phpunit/build.xml 1 -
+/about.htmlBerklee%20Jazz%20Standards%20for%20Solo%20Piano 1 -
+/wp-login.php 1 -
+/DSC_0153.jpg 1 -
+/blog/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/sitemap.xml 3 -
+/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/wp-muen.php 2 http://google.com
+/images/editor/separator.gif 1 -
+/plugins/system/debug/debug.xml 2 -
+/wp-includes/js/jquery/jquery.js 1 -
+/icons.html 1 -
+/DSC_0152.jpg 1 -
+/wp-content/plugins/background-image-cropper/content-post.php 1 http://google.com
+/apple-touch-icon.png 4 -
+/js/header-rollup-554.js 1 -
+/contact 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/build.xml 1 -
+/install.php 1 -
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/tourmaster/include/authorize/vendor/phpunit/phpunit/build.xml 1 -
+/old/wp-admin/ 3 http://cynthiaschilling.com/
+/magento_version 1 -
+/admin/index.php 1 -
+/assets/js/kcfinder/browse.php 1 -
+/kcfinder/browse.php 1 -
+/blog/wp-content/plugins/tourmaster/include/authorize/vendor/phpunit/phpunit/build.xml 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/themes/wp-update.php 1 -
+/robots.txt 273 -
+/sites/default/libraries/mailchimp/vendor/phpunit/phpunit/build.xml 1 -
+/ads.txt 7 -
+/wp-content/plugins/wp-rocket/vendor/phpunit/phpunit/build.xml 1 -
+/drupal/sites/default/libraries/mailchimp/vendor/phpunit/phpunit/build.xml 1 -
+/wp-admin/includes/class-wp-filesystem-import.php 1 http://google.com
+/js/kcfinder/browse.php 1 -
+/admin/ckeditor/kcfinder/browse.php 1 -
+/blog/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+/wp-admin/maint/images.php 1 http://google.com
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+/misc/ajax.js 1 -
+/wp-json/wp/v2/users 1 http://cynthiaschilling.com/wp-json/wp/v2/users
+/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/wordpress/wp-admin/ 3 http://cynthiaschilling.com/
+/55index.php 1 http://site.ru
+/blog/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/drupal/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/build.xml 1 -
+/mailgun-php/vendor/phpunit/phpunit/build.xml 1 -
+/administrator/help/en-GB/toc.json 2 -
+/config.bak.php 3 -
+/panel/kcfinder/browse.php 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css 1 www.google.com
+/modules/gamification/vendor/phpunit/phpunit/build.xml 1 -
+/backup/wp-admin/ 1 http://cynthiaschilling.com/
+/cut-paper-process.jpg 1 http://www.cynthiaschilling.com/mega-mix.html
+/admin/kcfinder/browse.php 1 -
+/modules/ps_checkout/vendor/phpunit/phpunit/build.xml 1 -
+/apple-touch-icon-precomposed.png 4 -
+/blog/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/admin/view/javascript/common.js 2 -
+/vendor/composer/installed.json 1 -
+/administrator/ 2 -
+/wp-admin/includes/images.php 1 http://site.ru
+/humans.txt 4 -
+/util/login.aspx 1 -
+/assets/ckeditor/kcfinder/browse.php 1 -
+/blog/wp-content/plugins/wp-rocket/vendor/phpunit/phpunit/build.xml 1 -
+/assets/kcfinder/browse.php 1 -
+/admin/includes/general.js 1 -
+/wp-admin/ 4 http://cynthiaschilling.com/
+/.env 2 -
+/blog/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/modules/pscartabandonmentpro/vendor/phpunit/phpunit/build.xml 1 -
+/assets/admin/ckeditor/kcfinder/browse.php 1 -
+/administrator/language/en-GB/install.xml 2 -
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/apple-touch-icon-120x120.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 98
+96.233.126.129 149 624 69999528 20201230133516
+104.155.62.46 100 100 44372 20201210171258
+192.99.19.38 32 32 40516 20201221144723
+76.19.123.235 27 87 9770527 20201230083343
+69.160.160.51 26 40 481546 20201203002906
+73.61.11.244 22 75 8671074 20201204170117
+93.158.90.119 14 14 16338 20201215043915
+54.39.243.186 12 12 55074 20201214082627
+35.226.85.227 11 11 17317 20201220181401
+68.187.222.165 9 70 7556692 20201208140443
+204.44.192.19 8 8 512 20201206220708
+71.234.242.235 6 39 3588455 20201219144911
+3.134.109.24 6 8 15623 20201201021044
+3.16.68.255 6 8 15822 20201231051012
+116.239.90.182 5 5 25369 20201222201629
+172.58.204.50 3 10 2557293 20201231173301
+85.228.217.79 3 3 5158 20201226044247
+72.13.62.26 3 3 5341 20201201015141
+176.37.85.229 3 37 6836344 20201216115611
+213.239.193.124 3 3 5780 20201217095757
+132.232.75.2 2 2 4328 20201210121537
+54.218.111.158 2 2 17714 20201213192042
+134.175.228.189 2 2 4328 20201207092749
+114.116.214.99 2 2 4328 20201209104006
+149.202.67.223 2 2 17714 20201220144837
+54.221.27.173 1 1 2164 20201207032516
+178.171.75.137 1 1 2164 20201214075435
+162.142.125.54 1 1 2164 20201231134450
+167.99.41.235 1 1 2164 20201224091719
+173.252.127.24 0 4 95710 
+3.128.26.105 1 1 87 20201206223619
+173.252.127.15 0 4 166078 
+34.83.123.173 1 1 0 20201209010344
+173.252.127.17 0 5 142644 
+93.159.230.28 1 1 2164 20201228005351
+37.9.13.68 1 1 8857 20201211154442
+74.120.14.37 1 1 2164 20201215202425
+94.158.245.149 1 1 8857 20201208075030
+52.37.167.250 1 1 2164 20201203030423
+207.32.217.136 1 1 8857 20201227212831
+18.236.94.36 1 1 2164 20201222033103
+104.131.167.249 1 1 8856 20201201231909
+175.44.42.36 1 1 2164 20201229111140
+51.89.230.56 1 1 2164 20201212024159
+195.37.209.10 1 1 2164 20201214070244
+64.246.165.50 1 1 2164 20201224042229
+188.165.206.173 1 1 8857 20201217113013
+51.91.218.49 1 9 208407 20201214083636
+107.172.224.136 1 1 1813 20201204122413
+51.161.57.132 2 2 4328 20201220030133
+34.212.8.200 1 1 2362 20201219063405
+192.71.225.127 1 1 2164 20201216041744
+191.96.251.224 1 1 2164 20201220131236
+174.242.66.123 0 1 729 
+45.148.10.60 1 1 2164 20201224151705
+18.191.132.207 1 16 451878 20201219105728
+34.220.150.87 1 1 2164 20201230031519
+185.253.218.243 1 1 2164 20201203191021
+199.244.88.132 1 1 2164 20201215002558
+23.82.165.212 1 1 2164 20201212105105
+107.172.31.99 1 1 2164 20201226152029
+174.140.231.16 1 1 2167 20201201043436
+192.71.2.171 1 1 2167 20201201124044
+192.71.10.105 1 1 2164 20201221140243
+181.214.173.113 1 1 2164 20201207015420
+74.120.14.40 1 1 2164 20201222223226
+3.237.194.152 1 1 2164 20201231192218
+34.221.57.186 2 2 17714 20201220192034
+113.31.115.156 1 1 2164 20201203122630
+107.152.158.133 1 1 1474 20201204122414
+192.71.224.240 1 1 2164 20201210192848
+52.28.236.88 1 1 87 20201206223619
+23.94.151.227 1 1 1497 20201226152035
+77.74.177.114 2 2 4328 20201228012352
+216.19.205.98 1 1 2164 20201227065450
+35.225.82.182 1 1 8857 20201222091040
+111.118.249.196 1 1 2164 20201218074415
+54.202.71.40 2 2 17702 20201206192031
+52.142.15.174 1 1 2164 20201219211112
+44.234.47.132 1 1 2164 20201225111047
+175.44.42.190 1 1 2164 20201207113810
+173.252.127.11 1 3 47446 20201214203143
+23.100.232.233 1 2 5273 20201221055639
+126.32.50.0 0 1 109865 
+174.242.66.219 0 1 729 
+135.181.61.248 2 2 3654 20201218213124
+34.105.19.82 1 1 0 20201209010344
+51.15.183.217 2 2 17714 20201227000832
+116.202.209.244 1 1 2164 20201206161438
+54.245.137.15 2 2 17714 20201227191803
+47.254.68.12 1 1 2164 20201205000507
+148.251.123.46 1 1 8857 20201227212206
+66.133.109.36 1 1 87 20201206223619
+174.192.206.117 1 15 451149 20201219233645
+158.106.67.135 0 53 6962590 
+54.70.232.155 1 1 2362 20201219063630
+34.209.232.166 1 1 87 20201206223619
+99.203.41.99 0 2 25025 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20201201 16 91 7450018 6
+20201202 76 283 26320388 4
+20201203 39 84 1539489 6
+20201204 27 90 11364890 5
+20201205 2 6 81874 2
+20201206 29 100 10647632 10
+20201207 31 90 9842793 8
+20201208 10 57 7889810 5
+20201209 6 22 3224234 5
+20201210 103 103 50864 3
+20201211 1 1 8857 1
+20201212 2 3 5057 2
+20201213 2 2 17714 1
+20201214 17 40 721851 6
+20201215 16 16 20666 3
+20201216 2 16 450204 2
+20201217 35 129 14347950 5
+20201218 8 33 6654414 4
+20201219 11 73 4498370 6
+20201220 18 18 59237 6
+20201221 35 36 56810 4
+20201222 8 9 39283 4
+20201224 3 3 6492 3
+20201225 1 1 2164 1
+20201226 5 5 8819 3
+20201227 6 6 46449 5
+20201228 2 2 4328 2
+20201229 1 1 2164 1
+20201230 7 41 10605241 4
+20201231 11 21 2687308 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 2
+5mn-15mn 4
+15mn-30mn 1
+1h+ 1
+2mn-5mn 4
+30s-2mn 7
+0s-30s 102
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 58
+/ 160 450829 100 80
+/about.html 42 57725 4 6
+/contact.html 34 39874 3 9
+/drawings.html 19 27588 1 2
+/resume.html 17 42039 0 2
+/spsc.html 13 15964 0 2
+/mega-mix.html 13 13537 0 0
+/rashomon.html 12 17580 2 3
+/piano.html 10 15921 0 2
+/coffeemaker-app.html 10 11803 2 2
+/scriabin-poster.html 10 9018 1 1
+/shostakovich_fugues.html 10 11173 0 0
+/orchestra-poster.html 10 8527 0 0
+/futura.html 9 7511 0 0
+/cleveland-orchestra.html 9 9696 0 2
+/miting-minds.html 8 5838 0 0
+/rockyfourmonths.html 8 6036 0 0
+/scriabin.html 8 5490 0 1
+/pieces.html 7 5510 0 0
+/daisy.html 7 4625 0 1
+/window.html 7 4435 0 0
+/momentary-spaces.html 7 4650 0 1
+/apples.html 6 3628 0 0
+/stata.html 6 3732 0 0
+/puppy.html 6 3580 0 0
+/.well-known/acme-challenge/4VT_C74GN1_ESQQDQZIO3A0_-Z23A22Q 1 64 1 0
+/clear.html 2 0 0 0
+/tea-flavors.html 3 2142 0 0
+/avocados.html 5 2676 0 0
+/sunset.html 3 933 0 0
+/.well-known/acme-challenge/M8J1WQ432OZESG-H1GZ0Z3IZ009U2AM4 1 64 0 0
+/greater-fitchburg.html 4 2258 1 0
+/schumann.html 2 0 0 0
+/programs.html 3 2156 0 0
+/beethoven.html 2 0 0 0
+/score.html 2 0 0 0
+/scriabin-paper.html 2 0 0 0
+/greatfalls.html 2 0 0 0
+/.well-known/acme-challenge/XF5Y1CX0VG-A6P-RQRVMGYOMQLZSC0KI 1 64 0 0
+/banana-bread.html 3 1122 0 1
+/wachusett-art.html 3 1120 0 0
+/.well-known/acme-challenge/LHXB2IJQFBPF4AB4BPW61NABBKW1CU3Z 1 64 0 1
+/bananas.html 5 2733 1 0
+/.well-known/acme-challenge/8LIJBXPRLGVL2NXJ7BVWR0LSSQYV3INY 1 64 0 0
+/connected.html 3 1446 0 0
+/albers-invitation.html 3 946 1 0
+/.well-known/acme-challenge/cqJkr-wGK0Lg4T_GCN6oJMwg0im6xX1yHtErSfhGZWQ 4 348 4 4
+/philip-glass.html 2 0 0 0
+/memory.html 3 2167 0 0
+/.well-known/acme-challenge/RLMQDKU6Q_O3BMSBB6GOVPI7VDGBYNIO 1 64 0 0
+/seeing-music.html 2 0 0 0
+/.well-known/acme-challenge/QCSBZOTM8JXZ97TVKEO5PMRC-FHTGFK- 1 64 0 0
+/.well-known/acme-challenge/MW2AAR8HMZ_JK1USAZYCN0C63SUUC101 1 64 0 0
+/glasses.html 4 3560 0 0
+/winter-concert.html 2 0 0 0
+/energy.html 3 2615 0 0
+/untitled.html 5 2868 0 1
+/dragonflies.html 2 0 0 0
+END_SIDER
