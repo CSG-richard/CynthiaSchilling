@@ -8,17 +8,19 @@
 <link href="cindy-portfolio-css.css" rel="stylesheet" type="text/css">
 <link rel="icon" href="favicon.ico" type="image/ico" sizes="16x16">
 	<link rel="shortcut icon" href="/favicon.ico" />
-<script>
-
-function myFunction() {
-    var x = document.getElementById('menu-toggle');
-    if (x.style.display === 'block') {
-        x.style.display = 'none';
-    } else {
-        x.style.display = 'block';
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script>
+  $(document).ready(function(){$(".header-wrapper").load("./header-files/header.html");});
+    
+    function myFunction() {
+        var x = document.getElementById('menu-toggle');
+        if (x.style.display === 'block') {
+            x.style.display = 'none';
+        } else {
+            x.style.display = 'block';
+        }
     }
-}
-</script>
+  </script>
 </head>
 <body>
 
