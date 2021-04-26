@@ -99,9 +99,7 @@ h1 {
   color: #5f5f5f;
   font-size: 1.2em;
 }
-.current-page {
-  color: #6cbad1;
-}
+
 
 .toggle-li {
   display: block;
@@ -129,6 +127,10 @@ h1 {
   margin: 50px 0px 40px 0px;
   text-align: center;
   padding: 0px;
+}
+
+.current-page {
+  color: #6cbad1;
 }
 
 /*.nav-li is for the nav items in the regular nav bar/menu, and .toggle-li is for the nav items in the JS toggle menu. The .nav-nav class is for the div container that holds the navigation menu items (for large screen navigation, not the small screen toggle one.)*/
