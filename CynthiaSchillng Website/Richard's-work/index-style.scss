@@ -33,12 +33,12 @@ $min-text-box-width:$single-box-width;
     //     flex:1 10 0;
     // }
     .image-box{
-        background-color: yellow;
+        background-color: green;
         flex:1 1 $min-image-box-width;
 
     }
     .text-box{
-        background-color: blue;
+        background-color: pink;
         flex:1 1 $min-text-box-width;
     } 
 

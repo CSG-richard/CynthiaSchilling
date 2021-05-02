@@ -17,11 +17,11 @@
   margin-top: 1rem;
 }
 .flex-container .image-box {
-  background-color: yellow;
+  background-color: green;
   flex: 1 1 20rem;
 }
 .flex-container .text-box {
-  background-color: blue;
+  background-color: pink;
   flex: 1 1 20rem;
 }
 
