@@ -1,0 +1,38 @@
+$navbar-height: 10rem;
+$single-box-height: 85vh;
+
+//*********** media sizes*******************
+
+// different screen sizes
+// Small (smaller than 640px)
+// Medium (641px to 1007px)
+// Large (1008px and larger)
+
+/* Small
+Set left and right window margins to 12px 
+app bar at the bottom of the screen, one column, icons and not words, navigation overlay, stacked presentation mode to save screen space.
+
+Medium
+Set left and right window margins to 24px,app bars at the top of the app window.,Use up to two columns/regions.,Show the search box.,narrow strip of icons always shows.
+
+Large
+Set left and right window margins to 24px,Put command elements like app bars at the top of the app window,Use up to three columns/regions,Show the search box,Put the navigation pane into docked mode so that it always shows. */
+
+$end-small: 640px;
+$start-medium: 641px;
+$end-medium: 1007px;
+$start-large: 1008px;
+// $end-large:1439px;
+// $start
+
+//---------------------------------------------
+
+$single-box-width: 31.25rem;
+$min-image-box-width: $single-box-width;
+$min-text-box-width: $single-box-width;
+
+
+//nav-bar
+$single-box-width: 31.25rem;
+$nav-min-image-box-width: $single-box-width*1.33;
+$nav-min-text-box-width: $single-box-width*0.75;

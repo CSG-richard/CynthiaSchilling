@@ -1,0 +1,28 @@
+@mixin for-size($min-size: 'null', $max-size: 'null') {
+    @if ($min-size==$start-medium and $max-size==$end-medium) {
+        @media (min-width: #{$min-size}) and (max-width: #{$max-size}) {
+            @content();
+        }
+    }
+
+    @if ($min-size==$start-large and $max-size== 'null') {
+        @media (min-width: #{$min-size}) {
+            @content();
+        }
+    }
+    @if ($min-size== 'null' and $max-size== $end-small) {
+        @media (max-width: #{$max-size}) {
+            @content();
+        }
+    }
+}
+
+@mixin color-nav {
+    $color-list: navy, blue, aqua, green, teal;
+
+    @for $i from 1 through 5 {
+        .nav-item:nth-child(#{$i}) {
+            background-color: nth($color-list, $i);
+        }
+    }
+}

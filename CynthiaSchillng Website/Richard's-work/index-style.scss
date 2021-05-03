@@ -1,48 +1,138 @@
+@import 'functions', 'vars', 'mixit';
 
-$single-box-height:100vh;
-$single-box-width:20rem;
-$min-image-box-width:$single-box-width;
-$min-text-box-width:$single-box-width;
-
-
-*, *::after, *::before {
+*,
+*::after,
+*::before {
     box-sizing: border-box;
 }
-
 
 // body{
 
 // }
 
-.navbar{
-    height:10rem;
-    background-color: grey;
+.navbar {
+    @include color-nav;
+
+    background-color: white;
     border: 0.1rem black solid;
+    display: flex;
+    height: $navbar-height;
+
+    .nav-item {
+        flex: 1 0 10vw;
+    }
+
+    .nav-item:nth-child(1) {
+        flex: 1 0 40vw;
+    }
 }
 
-.flex-container{
+.flex-container-root {
+    border: 0.1rem brown solid;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
-    height:$single-box-height;
-    border:0.1rem brown solid;
     margin-top: 1rem;
 
-    // .margin{
-    //     background-color: black;
-    //     flex:1 10 0;
-    // }
-    .image-box{
-        background-color: green;
-        flex:1 1 $min-image-box-width;
+    .image-box {
+        background-color: black;
+        flex: 1 1 $nav-min-image-box-width;
 
+        background-color: white;
+        border: 0.1rem black solid;
+        display: flex;
+        height: $navbar-height;
+
+        .nav-item-1 {
+            flex: 1 0 10vw;
+            background-color: black;
+        }
+
+        // @include for-size($start-medium, $end-medium) {
+        //     height: 60vh;
+        // }
+        // @include for-size('null', $end-small) {
+        //     height: 50vh;
+        // }
     }
-    .text-box{
-        background-color: pink;
-        flex:1 1 $min-text-box-width;
-    } 
+    .text-box {
+        background-color: black;
+        flex: 1 1 $nav-min-text-box-width;
+        @include color-nav;
 
-    // > *{
-    //     $
-    // }
+        background-color: white;
+        border: 0.1rem black solid;
+        display: flex;
+        height: $navbar-height;
+
+        .nav-item {
+            flex: 1 0 10vw;
+        }
+
+        // @include for-size($start-medium, $end-medium) {
+        //     height: 25vh;
+        // }
+
+        // @include for-size('null', $end-small) {
+        //     height: 20vh;
+        // }
+    }
+}
+
+// .front-page {
+//     background-color: lightcoral;
+//     height: 100vh;
+
+//     .menu-button-icon {
+//         background-color: lightgreen;
+//         height: 5rem;
+//         left: 10vw;
+//         position: absolute;
+//         top: 50vh;
+//         width: 5rem;
+//         z-index: 101;
+//     }
+
+//     .full-menu {
+//         background-color: rgb(70, 49, 49);
+//         height: 100vh;
+//         left: 0;
+//         position: absolute;
+//         top: 0;
+//         width: 100vw;
+//         z-index: 100;
+//     }
+// }
+
+.flex-container {
+    border: 0.1rem brown solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+
+    .image-box {
+        background-color: green;
+        flex: 1 1 $min-image-box-width;
+        height: $single-box-height;
+
+        @include for-size($start-medium, $end-medium) {
+            height: 60vh;
+        }
+        @include for-size('null', $end-small) {
+            height: 50vh;
+        }
+    }
+    .text-box {
+        background-color: pink;
+        flex: 1 1 $min-text-box-width;
+        height: $single-box-height;
+
+        @include for-size($start-medium, $end-medium) {
+            height: 25vh;
+        }
+
+        @include for-size('null', $end-small) {
+            height: 20vh;
+        }
+    }
 }

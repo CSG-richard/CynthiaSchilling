@@ -1,28 +1,127 @@
-*, *::after, *::before {
+/* Small
+Set left and right window margins to 12px 
+app bar at the bottom of the screen, one column, icons and not words, navigation overlay, stacked presentation mode to save screen space.
+
+Medium
+Set left and right window margins to 24px,app bars at the top of the app window.,Use up to two columns/regions.,Show the search box.,narrow strip of icons always shows.
+
+Large
+Set left and right window margins to 24px,Put command elements like app bars at the top of the app window,Use up to three columns/regions,Show the search box,Put the navigation pane into docked mode so that it always shows. */
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 
 .navbar {
-  height: 10rem;
-  background-color: grey;
+  background-color: white;
   border: 0.1rem black solid;
+  display: flex;
+  height: 10rem;
+}
+.navbar .nav-item:nth-child(1) {
+  background-color: navy;
+}
+.navbar .nav-item:nth-child(2) {
+  background-color: blue;
+}
+.navbar .nav-item:nth-child(3) {
+  background-color: aqua;
+}
+.navbar .nav-item:nth-child(4) {
+  background-color: green;
+}
+.navbar .nav-item:nth-child(5) {
+  background-color: teal;
+}
+.navbar .nav-item {
+  flex: 1 0 10vw;
+}
+.navbar .nav-item:nth-child(1) {
+  flex: 1 0 40vw;
+}
+
+.flex-container-root {
+  border: 0.1rem brown solid;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+.flex-container-root .image-box {
+  background-color: black;
+  flex: 1 1 41.5625rem;
+  background-color: white;
+  border: 0.1rem black solid;
+  display: flex;
+  height: 10rem;
+}
+.flex-container-root .image-box .nav-item-1 {
+  flex: 1 0 10vw;
+  background-color: black;
+}
+.flex-container-root .text-box {
+  background-color: black;
+  flex: 1 1 23.4375rem;
+  background-color: white;
+  border: 0.1rem black solid;
+  display: flex;
+  height: 10rem;
+}
+.flex-container-root .text-box .nav-item:nth-child(1) {
+  background-color: navy;
+}
+.flex-container-root .text-box .nav-item:nth-child(2) {
+  background-color: blue;
+}
+.flex-container-root .text-box .nav-item:nth-child(3) {
+  background-color: aqua;
+}
+.flex-container-root .text-box .nav-item:nth-child(4) {
+  background-color: green;
+}
+.flex-container-root .text-box .nav-item:nth-child(5) {
+  background-color: teal;
+}
+.flex-container-root .text-box .nav-item {
+  flex: 1 0 10vw;
 }
 
 .flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  height: 100vh;
   border: 0.1rem brown solid;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   margin-top: 1rem;
 }
 .flex-container .image-box {
   background-color: green;
-  flex: 1 1 20rem;
+  flex: 1 1 31.25rem;
+  height: 85vh;
+}
+@media (min-width: 641px) and (max-width: 1007px) {
+  .flex-container .image-box {
+    height: 60vh;
+  }
+}
+@media (max-width: 640px) {
+  .flex-container .image-box {
+    height: 50vh;
+  }
 }
 .flex-container .text-box {
   background-color: pink;
-  flex: 1 1 20rem;
+  flex: 1 1 31.25rem;
+  height: 85vh;
+}
+@media (min-width: 641px) and (max-width: 1007px) {
+  .flex-container .text-box {
+    height: 25vh;
+  }
+}
+@media (max-width: 640px) {
+  .flex-container .text-box {
+    height: 20vh;
+  }
 }
 
 /*# sourceMappingURL=index-style.css.map */
