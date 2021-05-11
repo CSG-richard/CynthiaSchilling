@@ -136,8 +136,8 @@ h1 {
 /*.nav-li is for the nav items in the regular nav bar/menu, and .toggle-li is for the nav items in the JS toggle menu. The .nav-nav class is for the div container that holds the navigation menu items (for large screen navigation, not the small screen toggle one.)*/
 
 .image-container {
-  width: 260px; /*image dimensions (make them square)*/
-  height: 260px; /*image dimensions*/
+  width: 20vw; /*image dimensions (make them square)*/
+  min-width:260px; /*image dimensions*/
   padding: 0px;
   display: inline-block;
   position: relative;
