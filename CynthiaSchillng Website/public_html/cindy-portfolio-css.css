@@ -261,7 +261,7 @@ hr {
   margin-bottom: auto;
   margin-left: auto;
   width: 100%; /*100% of the .webpage container div (which is set to 80%), so really the picture takes up 80% of the screen*/
-  max-width: 600px;
+  max-width: 700px;
 }
 
 .landscape-title {
@@ -293,7 +293,7 @@ hr {
   display: block;
   margin: auto;
   width: 100%; /*100% of the .webpage container div (which is set to 80%), so really the picture takes up 80% of the screen*/
-  max-width: 390px;
+  max-width: 420px;
   padding-bottom: 0.5em;
 }
 
@@ -305,7 +305,7 @@ hr {
   margin-left: auto;
   text-align: left;
   width: 100%;
-  max-width: 450px;
+  max-width: 500px;
   font-weight: 500;
   font-size: 1.4em;
 }
@@ -316,7 +316,7 @@ hr {
   margin-bottom: auto;
   margin-left: auto;
   width: 100%; /*100% of the .webpage container div (which is set to 80%), so really the description takes up 80% of the screen*/
-  max-width: 450px;
+  max-width: 500px;
   text-align: left;
   font-size: 1em;
   font-weight: 400;
